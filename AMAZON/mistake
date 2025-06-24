@@ -1,0 +1,81 @@
+<div class="add-box">
+            <p>
+            <h2> Revamp your home in Style</h2>
+            </p>
+            <div class="add-imgs-text">
+                <div class="add-img-text">
+                    <div img src="imgs/explore" class="add-img1"></div>
+                    <p><h5>Cushion covers,bedsheets&more</h5></p>
+                </div>
+                <div class="add-img-text">
+                    <div img src="imgs/explore" class="add-img1"></div>
+                    <p><h5>Cushion covers,bedsheets&more</h5></p>
+                </div>
+                <div class="add-img-text">
+                    <div img src="imgs/explore" class="add-img1"></div>
+                    <p><h5>Cushion covers,bedsheets&more</h5></p>
+                </div>
+                <div class="add-img-text">
+                    <div img src="imgs/explore" class="add-img1"></div>
+                    <p><h5>Cushion covers,bedsheets&more</h5></p>
+                </div>
+
+            </div>
+            <p style="color:blue">Explore all</p>
+        </div>
+
+        <div class="add-box">
+            <p>
+            <h2> Revamp your home in Style</h2>
+            </p>
+            <div class="add-imgs-text">
+                <div class="add-img-text">
+                    <div img src="imgs/explore" class="add-img1"></div>
+                    <p><h5>Cushion covers,bedsheets&more</h5></p>
+                </div>
+                <div class="add-img-text">
+                    <div img src="imgs/explore" class="add-img1"></div>
+                    <p><h5>Cushion covers,bedsheets&more</h5></p>
+                </div>
+                <div class="add-img-text">
+                    <div img src="imgs/explore" class="add-img1"></div>
+                    <p><h5>Cushion covers,bedsheets&more</h5></p>
+                </div>
+                <div class="add-img-text">
+                    <div img src="imgs/explore" class="add-img1"></div>
+                    <p><h5>Cushion covers,bedsheets&more</h5></p>
+                </div>
+
+            </div>
+            <p style="color:blue">Explore all</p>
+        </div>
+
+
+        <div class="add-box">
+            <p>
+            <h2> Revamp your home in Style</h2>
+            </p>
+            <div class="add-imgs-text">
+                <div class="add-img-text">
+                    <div img src="imgs/explore" class="add-img1"></div>
+                    <p><h5>Cushion covers,bedsheets&more</h5></p>
+                </div>
+                <div class="add-img-text">
+                    <div img src="imgs/explore" class="add-img1"></div>
+                    <p><h5>Cushion covers,bedsheets&more</h5></p>
+                </div>
+                <div class="add-img-text">
+                    <div img src="imgs/explore" class="add-img1"></div>
+                    <p><h5>Cushion covers,bedsheets&more</h5></p>
+                </div>
+                <div class="add-img-text">
+                    <div img src="imgs/explore" class="add-img1"></div>
+                    <p><h5>Cushion covers,bedsheets&more</h5></p>
+                </div>
+
+            </div>
+            <p style="color:blue">Explore all</p>
+        </div>
+
+</body>
+</html>

@@ -1,0 +1,463 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.white:hover {
+    border:1px solid white;
+}
+
+.topNav{
+    width: 100%;
+    height: 60px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+.logo{
+    width: 100px;
+    height: 40px;
+    background-image: url("imgs/WhatsApp\ Image\ 2024-11-05\ at\ 20.24.59_797853b6.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-right: 25px;
+}
+.address{
+    width: 225x;
+    height: 50px;
+    display: flex;
+}
+.location-img{
+     width:25px;
+     height: 25px;
+    padding-top:16px;
+}
+.delivery{
+color: white;
+font-size: 0.75em;
+font-family: Arial, Helvetica, sans-serif;
+padding-top: 10px;
+
+}
+.update{
+    color: #cccccc;
+    font-size: .85em;
+    font-weight: 600;
+    font-family: arial;
+
+}
+/*******search box*******/
+    .nav-search{
+        display:flex;
+        justify-content: center;
+        height: 40px;
+        width: 800px;
+        border: 0;
+        outline: none;
+
+    }
+    .myflag{
+        display:flex;
+        align-items: center;
+        margin-right: 30px;
+    }
+    .Flag{
+        height: 15px;
+        width: 20px;
+
+    }
+    .EN{
+        color: white;
+        font-size: 1.2em;
+        font-weight: 600;
+
+    }
+    .cart{
+        height: 50px;
+        width: 60px;
+    }
+    .orders{
+        height: 50px;
+        width: 100px;
+    }
+    .sign{
+        height: 50px;
+        width: 145px;
+
+    }
+    .search{
+        height: 37px;
+        width: 635px;
+    }
+    .category{
+        height: 40px;
+        width: 41px;
+    }
+    .topNav2{
+        height: 40px;
+        background-color: #232F3E;
+        display:flex;
+        align-items: center;
+        
+        
+    }
+    .bar{
+        height: 40px;
+        width: 41px;
+    }
+    .mytext{
+        color: white;
+        font-weight: 600px;
+        margin-right: 15px;
+
+    }
+    .diwali{
+        height: 270px;
+        width: 1540px;
+        background-image: url("imgs/diwali");
+    }
+    .add-box{
+        height:390px;
+        width:370px;
+        background-color: white;
+        margin: 8px;
+    }
+    .add-imgs-text{
+        height: 300px;
+        width: 375px;
+        display: flex;
+        flex-wrap: wrap;
+        margin: 10px;
+        justify-content: space-evenly;
+        margin-top: 25px;
+
+    }
+    .add-img1{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/explore");
+
+    }
+
+    .add-img2{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/vases");
+
+    }
+
+    .add-img3{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/homestorage");
+    }
+    .add-img4{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/lightingsources");
+    }
+    .add-img5{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/boult");
+    }
+    .add-img6{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/boat");
+    }
+    .add-img7{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/noise");
+    }
+    .add-img8{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/zebtronics.jpg");
+    }
+    .add-img9{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/ac");
+    }
+    .add-img10{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/fridges.jpg");
+    }
+    .add-img11{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/ovens");
+    }
+    .add-img12{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/washingmachines");
+    }
+    .add-img13{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/homeorganization");
+    }
+    .add-img14{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/racks");
+    }
+    .add-img15{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/toys");
+    }
+    .add-img16{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/dresses");
+    }
+    .add-row2-img1{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/cleaningaccessories");
+    }
+    .add-row2-img2{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/tyres");
+    }
+    .add-row2-img3{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/helmets");
+    }
+    .add-row2-img4{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/vaccumcleaners");
+    }
+    .add-row2-img5{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/bedsheets");
+    }
+    .add-row2-img6{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/curtains");
+    }
+    .add-row2-img7{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/ironboard");
+    }
+    .add-row2-img8{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/homedecor");
+    }
+    .add-row2-img9{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/womenclothing");
+    }
+    .add-row2-img10{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/footwearhandbags");
+    }
+    .add-row2-img11{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/watcheswomen");
+    }
+    .add-row2-img12{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/fashionjewellery.jpg");
+    }
+    .add-row2-img13{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/sportshoes");
+    }
+    .add-row2-img14{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/Jewelleryaccessories");
+    }
+    .add-row2-img15{
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/watchesandsmartwatches");
+    }
+    .add-row2-img16{    
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/bagswallets");
+    }
+    .add-row3-img1{    
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/row3image1");
+    }
+    .add-row3-img2{    
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/row3img2");
+    }
+    .add-row3-img3{    
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/row3img3");
+    }
+    .add-row3-img4{    
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/row3img4");
+    }
+    .add-row3-img9{    
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/sciencekit");
+    }
+    .add-row3-img10{    
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/littles");
+    }
+    .add-row3-img11{    
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/uno");
+    }
+    .add-row3-img12{    
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/skater");
+    }
+    .add-row3-img5{    
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/row3img5");
+    }
+    .add-row3-img6{    
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/row3image6");
+    }
+    .add-row3-img7{    
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/row3image7");
+    }
+    .add-row3-img8{    
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/row3image8");
+    }
+    .add-row3-img13{    
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/clothing");
+    }
+    .add-row3-img14{    
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/backpacks");
+    }
+    .add-row3-img15{    
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/footwear");
+    }
+    .add-row3-img16{    
+        height: 92px;
+        width:120px;
+        background-image: url("imgs/viewall");
+    }
+
+
+    .row{
+        background-color: lavender;
+        display: flex;
+        justify-content: center;
+        height: 400px;
+
+    }
+    .add-img-text{
+        height: 110px;
+        width: 150px;
+    }
+    .backtotop{
+        height: 40px;
+        background-color: lightsteelblue;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .contact{
+        height: 270px;
+        background-color: #232F3E;
+        color: white;
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .logowhite2{
+        width: 83px;
+        height: 25px;
+        background-image: url("imgs/WhatsApp\ Image\ 2024-11-05\ at\ 20.24.59_797853b6.jpg");
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-color: #232F3E;
+        display: flex;
+        justify-content: center;
+        padding-right: 230px;
+    }
+    .contact2{
+        height: 80px;
+        background-color: #232F3E;
+        color: white;
+        display: flex;
+        justify-content: space-evenly;
+        align-items:center;
+    }
+    .global{
+        height: 25px;
+        width: 25px;
+        padding-left: 295px;
+    }
+    .english {
+        color: white;
+        font-size: 18px;
+        padding-left: 1px;
+    }
+
+    .myflag2{
+        display:flex;
+        align-items: center;
+        padding-left: 10px;
+    }
+    .contact3{
+        height: 110px;
+        background-color: #131A22;
+        color: white;
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .contact4{
+        height: 110px;
+        background-color: #131A22;
+        color: white;
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .contact5{
+        height: 110px;
+        background-color: #131A22;
+        color: white;
+        display: flex;
+        justify-content: space-evenly;
+    }
